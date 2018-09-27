@@ -20,7 +20,7 @@ vagrant plugin install vagrant-docker-compose
 cd /path/to
 ```
 
-gitlabからクローン
+githubからクローン
 ```bash
 git clone ssh://git@github.com:s-shoichi/docker-vagrant-rails-nginx.git
 ```
